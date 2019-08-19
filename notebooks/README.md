@@ -1,4 +1,4 @@
-# Gamma's Design Patterns
+# The Gamma's Design Patterns
 
 1. [Singleton](./singleton.ipynb)
 2. [Command](./command.ipynb)
